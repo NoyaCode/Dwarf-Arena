@@ -1,2 +1,32 @@
-# Dwarf-Arena
-Brawler game with Unreal Engine
+# Dwarf Arena
+
+## Project Description:
+
+This game is a **Brawler** made with **Unreal Engine**. <br>
+Understanding the C++ architecture of Unreal Engine 4.27 was the primary objective of our project. Our strategy involved utilizing C++ files and minimizing the use of blueprints, except for VFX.
+
+<br />
+
+## Preview:
+
+<img src="" style="width:700px;"/>
+
+<br />
+
+## Controls:
+- Move → ```WASD```
+- Hammer Blow → ```Mouse Left Button```
+- Parry → ```Mouse Right Button```
+- Hammer throw → ```Space```
+- Lock target → ```TAB```
+- Switch locked target → ```Mouse Scroll Wheel```
+- Pause → ```Escape```
+
+<br />
+<hr />
+
+Authors : **Matias Héno** & **Bruno Gomes**
+
+For [ISART Digital](https://www.isart.com)
+
+<hr />
