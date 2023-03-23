@@ -9,7 +9,7 @@ Understanding the C++ architecture of Unreal Engine 4.27 was the primary objecti
 
 ## Preview:
 
-<img src="" style="width:700px;"/>
+<img src="https://user-images.githubusercontent.com/122649492/227084300-a96e50fe-158b-4a86-b9a4-50a9610b8af8.gif" style="width:700px;"/>
 
 <br />
 
